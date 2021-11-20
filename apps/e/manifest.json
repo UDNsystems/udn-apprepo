@@ -1,0 +1,12 @@
+{
+	"name": "e",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "e",
+			"entrypoint": "./e.js"
+		}
+	],
+	"files": [],
+	"description": "e"
+}

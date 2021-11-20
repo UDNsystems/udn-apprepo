@@ -1,0 +1,1 @@
+termAPI.write('You are an sussy baka!')

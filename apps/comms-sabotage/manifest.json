@@ -1,0 +1,12 @@
+{
+	"name": "comms-sabotage",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "sabotage.communications()",
+			"entrypoint": "./sabotage.js"
+		}
+	],
+	"description": "communications sabotage!",
+	"files": []
+}

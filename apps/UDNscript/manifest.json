@@ -1,0 +1,19 @@
+{
+	"name": "UDNscript",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "uds",
+			"entrypoint": "./duc.js"
+		}
+	],
+	"files": [
+    {
+      "url": "./uds.py",
+      "filename": "uds.py",
+      "type": "text"
+    }
+  ],
+	"description": "UDN script, da official scripting language of UDN systems",
+	"dependencies": ["cpython"]
+}

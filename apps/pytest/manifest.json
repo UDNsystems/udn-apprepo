@@ -1,0 +1,13 @@
+{
+	"name": "pytest",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "pytest",
+			"entrypoint": "./run.js"
+		}
+	],
+	"description": "cpython dependency test",
+	"files": [],
+	"dependencies": ["cpython"]
+}

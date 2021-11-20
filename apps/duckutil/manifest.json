@@ -1,0 +1,17 @@
+{
+	"name": "duckutil",
+	"terminalapp": true,
+	"cli": [
+		{
+    	"command": "susduc",
+			"entrypoint": "./susduc.js"
+		},
+		{
+			"command": "antisusduc",
+			"entrypoint": "./notsusduc.js"
+		}
+	],
+	"files": [],
+	"description": "are you sus duck or not sus duck?",
+	"dependencies": ["emoji"]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "motd",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "motd",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "message of the duck"
+}

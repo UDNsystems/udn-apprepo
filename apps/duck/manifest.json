@@ -1,0 +1,16 @@
+{
+	"name": "duck",
+	"terminalapp": true,
+	"cli": [
+		{
+    	"command": "duck",
+			"entrypoint": "./duck.js"
+		},
+    {
+    	"command": "unduck",
+			"entrypoint": "./unduck.js"
+		}
+	],
+	"files": [],
+	"description": "Tool to duck and unduck."
+}

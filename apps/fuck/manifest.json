@@ -1,0 +1,12 @@
+{
+	"name": "fuck",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "fuck",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "you"
+}

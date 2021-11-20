@@ -1,0 +1,16 @@
+{
+	"name": "cpython",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "brythonext",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"module": {
+		"path": "mod.js"
+	},
+	"files": [],
+	"description": "Brython Extension to cpython",
+	"dependencies": ["cpython"]
+}

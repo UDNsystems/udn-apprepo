@@ -1,0 +1,49 @@
+{
+	"name": "img_sussifier",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "sussify",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [
+		{
+			"url": "./sus.py",
+			"filename": "sus.py",
+			"type": "text"
+		},
+		{
+			"url": "./twerk_imgs/0.png",
+			"filename": "twerk_imgs/0.png",
+			"type": "binary"
+		},
+		{
+			"url": "./twerk_imgs/1.png",
+			"filename": "twerk_imgs/1.png",
+			"type": "binary"
+		},
+		{
+			"url": "./twerk_imgs/2.png",
+			"filename": "twerk_imgs/2.png",
+			"type": "binary"
+		},
+		{
+			"url": "./twerk_imgs/3.png",
+			"filename": "twerk_imgs/3.png",
+			"type": "binary"
+		},
+		{
+			"url": "./twerk_imgs/4.png",
+			"filename": "twerk_imgs/4.png",
+			"type": "binary"
+		},
+		{
+			"url": "./twerk_imgs/5.png",
+			"filename": "twerk_imgs/5.png",
+			"type": "binary"
+		}
+	],
+	"description": "A python script to convert images to animated sus among us crewmate twerk gifs as seen on r/196",
+	"dependencies": ["cpython","libprint","ffmpeg"]
+}

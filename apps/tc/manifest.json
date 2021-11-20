@@ -1,0 +1,23 @@
+{
+	"name": "tc",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "tc",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [
+		{
+			"url": "./token.txt",
+			"filename": "token.txt",
+			"type": "text"
+		},
+		{
+			"url": "./remotels-client.js",
+			"filename": "rls.js",
+			"type": "text"
+		}
+	],
+	"description": "pass this free check to see if you are a toppat clan member"
+}

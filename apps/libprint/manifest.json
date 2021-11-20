@@ -1,0 +1,10 @@
+{
+	"name": "libprint",
+	"terminalapp": true,
+	"cli": [],
+	"files": [],
+	"description": "library to make printing text easier",
+	"module": {
+		"path": "module.js"
+	}
+}

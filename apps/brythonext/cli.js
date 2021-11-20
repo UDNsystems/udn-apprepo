@@ -1,0 +1,1 @@
+termAPI.write("amogus")

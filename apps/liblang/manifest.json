@@ -1,0 +1,10 @@
+{
+	"name": "liblang",
+	"terminalapp": true,
+	"cli": [],
+	"files": [],
+	"description": "library to load language files",
+	"module": {
+		"path": "module.js"
+	}
+}

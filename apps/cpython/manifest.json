@@ -1,0 +1,15 @@
+{
+	"name": "cpython",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "cpython",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"module": {
+		"path": "mod.js"
+	},
+	"files": [],
+	"description": "WASM version of cpython"
+}

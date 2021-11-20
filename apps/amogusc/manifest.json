@@ -1,0 +1,12 @@
+{
+	"name": "amogusc",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "amogus",
+			"entrypoint": "./sus.js"
+		}
+	],
+	"description": "generate an among us alive impostor",
+	"files": []
+}

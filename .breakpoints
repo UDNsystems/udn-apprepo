@@ -1,0 +1,12 @@
+{
+  "files": {
+    "apps/brythonext/cli.json": [
+      {
+        "id": "1e2dcdb6-e7cc-4413-85b4-2007467b8be4",
+        "line": 1,
+        "version": 22,
+        "index": 0
+      }
+    ]
+  }
+}

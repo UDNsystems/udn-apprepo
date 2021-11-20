@@ -1,0 +1,8 @@
+{
+	"name": "desktop-app-example",
+	"terminalapp": true,
+	"cli": [],
+	"files": [],
+	"description": "example of desktop app",
+	"startup": "./app.py"
+}

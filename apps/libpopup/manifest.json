@@ -1,0 +1,11 @@
+{
+	"name": "libpopup",
+	"terminalapp": true,
+	"cli": [],
+	"files": [],
+	"description": "library to make showing popups easier",
+	"module": {
+		"path": "module.js"
+	},
+	"dependencies": ["evalpy"]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "sus",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "sus",
+			"entrypoint": "./sus.js"
+		}
+	],
+	"files": [],
+	"description": "when the sus is sus"
+}

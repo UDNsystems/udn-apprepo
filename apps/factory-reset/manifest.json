@@ -1,0 +1,12 @@
+{
+	"name": "evalpy",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "factory-reset",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "Factory resets your terminal"
+}

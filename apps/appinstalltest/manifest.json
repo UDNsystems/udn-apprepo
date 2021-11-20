@@ -1,0 +1,13 @@
+{
+	"name": "appinstalltest",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "installtestapp",
+			"entrypoint": "./ITS.js"
+		}
+	],
+	"files": [],
+	"description": "Test to install app.",
+	"dependencies": ["evalpy", "libprint"]
+}

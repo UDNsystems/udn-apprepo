@@ -1,0 +1,25 @@
+{
+	"name": "emoji",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "emoji",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [
+		{
+			"url": "./emoji.json",
+			"filename": "emoji.json",
+			"type": "text"
+		},
+		{
+			"url": "./discord_emojis.json",
+			"filename": "discord.json"
+		}
+	],
+	"description": "emoji",
+	"module": {
+		"path": "module.js"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "wget",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "wget",
+			"entrypoint": "./cli.js"
+		},
+    {
+			"command": "curl",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "A program to fetch a file from a URL."
+}

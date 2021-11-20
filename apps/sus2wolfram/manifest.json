@@ -1,0 +1,12 @@
+{
+	"name": "sus2wolfram",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "sus2wolfram",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "wolfram looks sus"
+}

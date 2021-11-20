@@ -1,0 +1,12 @@
+{
+	"name": "amoguscc",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "camogus",
+			"entrypoint": "./index.js"
+		}
+	],
+	"description": "generate an among us alive impostor(C edition!)",
+	"files": []
+}

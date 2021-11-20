@@ -1,0 +1,21 @@
+{
+	"name": "ffmpeg",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "ffmpeg",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [
+		{
+			"url": "./ffmpeg.min.js",
+			"filename": "ffmpeg.js",
+			"type": "text"
+		}
+	],
+	"description": "FFmpeg now on udn!",
+	"module": {
+		"path": "module.js"
+	}
+}

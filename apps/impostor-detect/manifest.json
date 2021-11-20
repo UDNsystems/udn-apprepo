@@ -1,0 +1,12 @@
+{
+	"name": "impostor-detect",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "amogos",
+			"entrypoint": "./imp.js"
+		}
+	],
+	"files": [],
+	"description": "detect your role, crewmate or impostor"
+}

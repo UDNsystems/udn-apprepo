@@ -1,0 +1,15 @@
+{
+	"name": "evalpy",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "evalpy",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "Evaluates a string of brython.",
+	"module": {
+		"path": "module.js"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "libadapt",
+	"terminalapp": true,
+	"cli": [],
+	"files": [],
+	"description": "library to adapt your packages to UDN's language more easily (not finished)",
+	"module": {
+		"path": "module.js"
+	},
+	"dependencies": ["liblang"]
+}

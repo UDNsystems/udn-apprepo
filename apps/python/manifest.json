@@ -1,0 +1,31 @@
+{
+	"name": "python",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "python",
+			"entrypoint": "./py.js"
+		},
+		{
+			"command": "python3",
+			"entrypoint": "./py.js"
+		},
+		{
+			"command": "py",
+			"entrypoint": "./py.js"
+		}
+	],
+	"files": [
+		{
+			"url": "./license.txt",
+			"filename": "license.txt",
+			"type": "text"
+		},
+		{
+			"url": "./evalpy.js",
+			"filename": "evalpy.js",
+			"type": "text"
+		}
+	],
+	"description": "Python!"
+}

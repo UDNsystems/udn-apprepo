@@ -1,0 +1,12 @@
+{
+	"name": "testcli",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "testduck",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "test cli?"
+}

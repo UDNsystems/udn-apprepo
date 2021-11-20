@@ -1,0 +1,16 @@
+{
+	"name": "adapt-language",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "adapt",
+			"entrypoint": "./adapt.js"
+		},
+		{
+			"command": "unadapt",
+			"entrypoint": "./unadapt.js"
+		}
+	],
+	"description": "Adapt and unadapt the language set in UDN for terminal outputs (for some packages)",
+	"files": []
+}

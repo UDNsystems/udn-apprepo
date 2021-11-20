@@ -1,0 +1,12 @@
+{
+	"name": "evaljs",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "evaljs",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "Evaluates a string of js."
+}

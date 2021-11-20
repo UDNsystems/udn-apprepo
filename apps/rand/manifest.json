@@ -1,0 +1,12 @@
+{
+	"name": "rand",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "rand",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"description": "random, what else?",
+	"files": []
+}

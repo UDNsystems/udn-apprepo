@@ -1,0 +1,13 @@
+{
+	"name": "adapt-test",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "adapt-test",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "adapt test",
+	"dependencies": ["libadapt", "libprint"]
+}

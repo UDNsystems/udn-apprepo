@@ -1,0 +1,12 @@
+{
+	"name": "ytplayer",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "ytplayer",
+			"entrypoint": "./cli.js"
+		}
+	],
+	"files": [],
+	"description": "do youtube tasks"
+}

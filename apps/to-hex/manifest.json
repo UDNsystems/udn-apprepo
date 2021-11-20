@@ -1,0 +1,12 @@
+{
+	"name": "to-hex",
+	"terminalapp": true,
+	"cli": [
+		{
+			"command": "convert",
+			"entrypoint": "./conversion.js"
+		}
+	],
+	"description": "This package includes all utilities to convert to HEX and from HEX, also to binary and from binary!",
+	"files": []
+}
